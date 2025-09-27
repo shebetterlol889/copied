@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/thunderz"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="[https://discord.gg/thunderz"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/AEwF86U7kU)" /></a>
   <a href="https://github.com/ThundarZ"><img src="https://img.shields.io/github/followers/ThundarZ?style=for-the-badge" /></a>
   <a href="https://github.com/ThundarZ?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-9D00FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
