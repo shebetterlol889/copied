@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ About ThunderZ
+## ✨ About LumizHUB
 
 ThunderZ Hub is a Roblox scripting initiative focused on **automation**, **enhanced gameplay**, and **quality-of-life tools** for players who want to farm, raid, and explore smarter — not harder.
 
@@ -43,5 +43,5 @@ We specialize in:
 ---
 
 <p align="center" style="font-size: 0.9em;">
-   <strong>ThundarZ</strong> | Powered by Lua and Lightning ⚡
+   <strong>LUMIXHUB</strong> | Powered by Lua and Lightning ⚡
 </p>
