@@ -4,7 +4,7 @@
   -webkit-text-fill-color: transparent;
   font-size: 3em;
   font-weight: bold;">
-  ⚡ ThunderZ Hub
+  ⚡ LumixHub
 </h1>
 
 <p align="center">
