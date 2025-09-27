@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+ThunderZ+Hub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+LUMIXHUB" />
 </p>
 
 <p align="center">
